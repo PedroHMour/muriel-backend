@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|c:\\users\\henri\\onedrive\\desktop\\muriel-backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|c:\\users\\henri\\onedrive\\desktop\\muriel-backend\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|solutionrelative:dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|c:\\users\\henri\\onedrive\\desktop\\muriel-backend\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|solutionrelative:services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|c:\\users\\henri\\onedrive\\desktop\\muriel-backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|c:\\users\\henri\\onedrive\\desktop\\muriel-backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|c:\\users\\henri\\onedrive\\desktop\\muriel-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7090E9A-06FF-4B53-A3DD-409E141B857A}|muriel-backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:57:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "DTOs\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:56:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:53:59.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:42:44.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:42:42.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "Services\\ProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:39:07.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

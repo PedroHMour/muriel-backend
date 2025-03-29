@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("muriel-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b8d5a26bae061aceebe041fc83999bfd812f540")]
 [assembly: System.Reflection.AssemblyProductAttribute("muriel-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("muriel-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

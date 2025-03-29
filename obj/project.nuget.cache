@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H37MMSZoXNk=",
+  "dgSpecHash": "OSxqGIIe2Jg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\muriel-backend\\muriel-backend.csproj",
+  "projectFilePath": "C:\\Users\\henri\\OneDrive\\Desktop\\muriel-backend\\muriel-backend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\henri\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.1\\microsoft.entityframeworkcore.abstractions.9.0.1.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.1\\microsoft.entityframeworkcore.analyzers.9.0.1.nupkg.sha512",
