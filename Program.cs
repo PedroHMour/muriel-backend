@@ -1,29 +1,31 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using muriel_backend.Data;
 using muriel_backend.Models;
-using System.Collections.Generic;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Adiciona o DbContext com a string de conexão do appsettings.json
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Configura o CORS para permitir o frontend React
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
     {
         policy.WithOrigins("http://localhost:3000")
-            .AllowAnyHeader()
-            .AllowAnyMethod();
+              .AllowAnyHeader()
+              .AllowAnyMethod();
     });
-
 });
 
-
-builder.Services.AddControllers(); //Adiciona os serviçies de controllers para a API
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Ativa o CORS com a policy definida
 app.UseCors("AllowReactApp");
 
 app.UseSwagger();
@@ -31,7 +33,6 @@ app.UseSwaggerUI();
 
 app.UseAuthorization();
 
-// Mapeamento dos controladores
 app.MapControllers();
 
 app.Run();

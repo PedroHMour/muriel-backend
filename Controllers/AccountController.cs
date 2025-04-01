@@ -37,7 +37,7 @@ namespace muriel_backend.Controllers
                 Email = model.Email,
                 SenhaHash = HashSenha(model.Senha),
                 Telefone = model.Telefone,
-                DataCadastro = DateTime.Now
+                DataCadastro = DateTime.UtcNow
             };
 
             // Adiciona o usuário ao banco de dados
